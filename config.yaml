@@ -14,9 +14,9 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+      - city: London, W1W 5BX
+        country: UK
+        street: 10 Weymouth Street
         title: Address
     buttonClear: Clear
     buttonSend: Send message
@@ -25,8 +25,8 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
-        title: Phone
+      - phone: +44 7501 633 583
+        title: Cell
   custom_css: []
   custom_js: []
   description: Your description
