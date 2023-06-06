@@ -1,4 +1,4 @@
-baseURL: http://example.org/
+baseURL: https://colby-richardson.netlify.app/
 languageCode: en-us
 title: Forty
 theme: forty
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Colby
   blog: {}
   contact:
     address:
