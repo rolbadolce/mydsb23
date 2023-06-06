@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Colby
+    title: Portfolio Website for Colby Richardson
   blog: {}
   contact:
     address:
@@ -29,7 +29,7 @@ params:
         title: Cell
   custom_css: []
   custom_js: []
-  description: Your description
+  description: LBS MBA 2nd-year. Start-up investments, venture capital, family offices.
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
