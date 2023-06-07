@@ -116,3 +116,8 @@ params:
       plays on repeat?"
     title: Who we are
     url: blogs
+    
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
