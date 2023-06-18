@@ -71,7 +71,7 @@ params:
         url: blogs/risk_return
       - name: Flight Data
         url: blogs/homework-1
-      - name: Sustainability
+      - name: Machine Learning
         url: blogs/homework-4
       - name: Investing
         url: elements.html
@@ -91,7 +91,7 @@ params:
         url: blogs/homework1.html
       - image: pic03.jpg
        # subtitle: Lorem Etiam Nullam
-        title: Sustainability
+        title: Machine Learning
         url: blogs/homework4.html
       - image: pic04.jpg
        # subtitle: 
