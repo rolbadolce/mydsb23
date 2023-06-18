@@ -95,9 +95,9 @@ params:
         url: blogs/homework4.html
       - image: pic04.jpg
        # subtitle: 
-        title: Investing
-        url: blogs/blog3.md
-     # - image: pic05.jpg
+        title: Shiny
+        url: blogs/homework3.html
+      - image: pic05.jpg
      #   subtitle: Ipsum Dolor Sit Amet
      #   title: Consequat
      #   url: blogs/ipsum
