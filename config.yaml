@@ -84,19 +84,19 @@ params:
       - image: lbs.jpg
        # subtitle: 
         title: Risk/Return
-        url: blogs/risk_return
+        url: blogs/risk_return.Rmd
       - image: pic02.jpg
       #  subtitle: 
         title: Family Office
-        url: blogs/family_office
+        url: blogs/homework1.html
       - image: pic03.jpg
        # subtitle: Lorem Etiam Nullam
         title: Sustainability
-        url: blogs/sustainability
+        url: blogs/blog2.md
       - image: pic04.jpg
        # subtitle: 
         title: Investing
-        url: blogs/investing
+        url: blogs/blog3.md
      # - image: pic05.jpg
      #   subtitle: Ipsum Dolor Sit Amet
      #   title: Consequat
@@ -112,7 +112,7 @@ params:
       \n    if the nature is already the present. \n    If time is an illusion, what
       are ghosts made of?
       Answers do not come knocking \n  if the door is already ajar.  
-      Finding solace is as easy as forgetting.\n    What is the past but a movie your mind
-      plays on repeat?"
+      Finding solace is as easy as forgetting.\n    What is the past but your mind's
+      favourite movie? Odeon."
     title: Who we are
     url: blogs
