@@ -69,11 +69,11 @@ params:
     links:
       - name: Risk/Return
         url: blogs/risk_return
-      - name: Family Office
-        url: blogs/family-office
+      - name: Flight Data
+        url: blogs/homework-1
       - name: Sustainability
-        url: blogs/sustainability
-      - name: Elements
+        url: blogs/homework-4
+      - name: Investing
         url: elements.html
     menu: Menu
     subtitle: You're in the place #By HTML5 Up
@@ -84,15 +84,15 @@ params:
       - image: lbs.jpg
        # subtitle: 
         title: Risk/Return
-        url: blogs/risk_return.Rmd
+        url: blogs/risk_return.html
       - image: pic02.jpg
       #  subtitle: 
-        title: Family Office
+        title: Flight Data
         url: blogs/homework1.html
       - image: pic03.jpg
        # subtitle: Lorem Etiam Nullam
         title: Sustainability
-        url: blogs/blog2.md
+        url: blogs/homework4.html
       - image: pic04.jpg
        # subtitle: 
         title: Investing
